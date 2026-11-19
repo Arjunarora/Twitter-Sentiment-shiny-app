@@ -1,1 +1,6 @@
-.httr-oauth
+.RData
+.Rhistory
+.Rproj.user/
+.Renviron
+data/
+.DS_Store
